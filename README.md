@@ -2,7 +2,7 @@
 
 - 📚 Atualmente sou graduanda em Análise e Desenvolvimento de Sistemas
 - 👩‍💻 Etudando HTML5 e CSS3
-- 🔎 Buscando me aprofundar em Back-end (especificamente java).
+- 🔎 Buscando me aprofundar em Back-end.
 
 <div align="center">
   <a href="https://github.com/samilyss">
